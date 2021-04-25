@@ -26,7 +26,7 @@ I have used the uber data set for analyzing its business by studying the factors
 4. How many Hours of service was provided by Uber every month ?
 <img width="589" alt="4" src="https://user-images.githubusercontent.com/59830064/116008828-25f11980-a634-11eb-800b-d40c2067fb07.png">
 
-##### This shows that September had the maximum number of hours of service
+  ##### This shows that September had the maximum number of hours of service
 
 5. How many Hours did uber provide service on daily basis ?
 
@@ -42,17 +42,17 @@ I have used the uber data set for analyzing its business by studying the factors
 
 8. Heatmaps for better understanding of previous cases : 
 
-  1. Heatmap By Hour and Weekday
+  a. Heatmap By Hour and Weekday
   
   <img width="374" alt="hw" src="https://user-images.githubusercontent.com/59830064/116009353-c47e7a00-a636-11eb-99b6-ee211023a070.png">
 
-  2. Heatmap by hour and Day
+  b. Heatmap by hour and Day
 
-   <img width="383" alt="hd_" src="https://user-images.githubusercontent.com/59830064/116009356-c9432e00-a636-11eb-9193-669f869c43c5.png">
+  <img width="383" alt="hd_" src="https://user-images.githubusercontent.com/59830064/116009356-c9432e00-a636-11eb-9193-669f869c43c5.png">
 
-  3. Heatmap by Day and month
+  c. Heatmap by Day and month
 
-   <img width="395" alt="dm" src="https://user-images.githubusercontent.com/59830064/116009362-ce07e200-a636-11eb-9f94-08499dc42547.png">
+  <img width="395" alt="dm" src="https://user-images.githubusercontent.com/59830064/116009362-ce07e200-a636-11eb-9f94-08499dc42547.png">
 
 
 ### Conclusion:
